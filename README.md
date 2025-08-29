@@ -2,6 +2,8 @@
 
 An **infinite cascade** of [Xiu Xiu](https://xiuxiu.bandcamp.com).
 
+![Mainpage](public/screenshots/main.png)
+
 ---
 
 ## Installation

@@ -10,7 +10,7 @@ const Title = ({
   <div className="z-10 flex items-start justify-between p-4">
     <div>
       <h1 className="text-xl font-bold">xiu</h1>
-      <p className="text-gray-600">
+      <p className="max-w-60 text-gray-600 sm:max-w-none">
         Black hair, infinite —{" "}
         <a
           href={XIUXIU_URL}
@@ -24,7 +24,7 @@ const Title = ({
       </p>
     </div>
     <div className="flex flex-col gap-2 text-right">
-      <label className="flex items-center gap-2 font-medium text-gray-700">
+      <label className="flex flex-col items-end gap-2 font-medium text-gray-700 sm:flex-row sm:items-center">
         <input
           type="checkbox"
           checked={showIndicators}

@@ -9,7 +9,7 @@ An **infinite cascade** of [Xiu Xiu](https://xiuxiu.bandcamp.com).
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/xiu-cascade.git
-cd xiu-cascade
+git clone https://github.com/sweeneyngo/xiu.git
+cd xiu
 pnpm install
 ```

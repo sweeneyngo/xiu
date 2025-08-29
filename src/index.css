@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  font-family: monospace;
+
+  color: oklch(26.9% 0 0);
+  background-color: oklch(97% 0 0);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

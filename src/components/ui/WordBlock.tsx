@@ -8,7 +8,7 @@ const WordBlock = ({
   showIndicators?: boolean;
 }) => (
   <div className="pointers-events-none relative select-none">
-    <span className="inline-block text-[10rem] leading-[0.8] font-bold">
+    <span className="inline-block text-[10rem] leading-[0.8] font-bold tracking-tighter">
       {text}
     </span>
     {showIndicators && (
